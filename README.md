@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm SELIMUR RAJI
 #### I'm a Shopify Website Design & Redesign | Landing Page Specialist: PageFly, GemPages, Shogun, Replo & Liquid | Wix & Klaviyo Expert
-![I'm a Shopify Website Design & Redesign | Landing Page Specialist: PageFly, GemPages, Shogun, Replo & Liquid | Wix & Klaviyo Expert](https://i.ibb.co.com/DfKXnjk/seli.jpg)
+![I'm a Shopify Website Designer & Redesigner | Landing Page Specialist: PageFly, GemPages, Shogun, Replo & Liquid | Wix & Klaviyo Expert](https://i.ibb.co.com/DfKXnjk/seli.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
