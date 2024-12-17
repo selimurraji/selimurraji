@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SELIMUR RAJI</h1>
 <h3 align="center">A passionate Shopify Website Designer & Redesigner | Landing Page Specialist: PageFly, GemPages, Shogun, Replo & Liquid | Wix & Klaviyo Expert</h3>
-<img src="https://i.ibb.co.com/3Tn1b0K/seli.jpg" alt="seli" border="0">
+<img src="https://i.ibb.co.com/3Tn1b0K/seli.jpg" alt="seli" border="1" style="padding:5px 0; border: 1px solid #FF7F50 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimurraji&label=Profile%20views&color=0e75b6&style=flat" alt="selimurraji" /> </p>
 
